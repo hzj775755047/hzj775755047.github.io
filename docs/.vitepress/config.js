@@ -1,4 +1,5 @@
 export default{
+    base:'/docs/',
     title:'hzjBlog',
     description:'一个vue3组件库',
     themeConfig:{
